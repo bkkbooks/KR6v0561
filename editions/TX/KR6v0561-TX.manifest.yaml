@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR6v0561/TX/v1
+canonical_location: https://kanripo.org/bkk/KR6v0561/TX/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太虛大師全書．第四編　大乘通學
+  identifiers:
+    krp: KR6v0561
+    cbeta: TX04n0004
+    cbeta_old_id: TX04n0004
+    authorityid: CA0008569
+    json_key: TX0004
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX04/TX04n0004.xml
+    old_id: TX04n0004
+  edition:
+    short: TX
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0561_001-TX.yaml, hash: 'sha256:30f683b6554e9968dfc5fff682d12c6d6b987a7f3364c99ab75a6e7e89c46c46'}
+  - {seq: 2, filename: KR6v0561_002-TX.yaml, hash: 'sha256:a671d049a85d0ed56be45c50eb3081c656813c5e3a46d0fd9da34317c7c3a580'}
+  - {seq: 3, filename: KR6v0561_003-TX.yaml, hash: 'sha256:fb5eae9dad06f473d7c75b18914753b00e3a4e0537987f1ddd1875bb3fc19d89'}
+  - {seq: 4, filename: KR6v0561_004-TX.yaml, hash: 'sha256:ed18dfb1f2764be5fe63def185a1207519a7e7d819e551e59495a51bb82823c6'}
+  - {seq: 5, filename: KR6v0561_005-TX.yaml, hash: 'sha256:0e7e76a865dfd66ef7057576995bacf71ca5b961f9b4e78f7d3131ebfc79a9cc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0561_001-TX.markers.yaml, hash: 'sha256:6e9acd0434075df4404da495d6f3895310a1f80b922fb51ee9bcb9f1c52bcc1e'}
+  - {seq: 2, role: markers, filename: assets/KR6v0561_002-TX.markers.yaml, hash: 'sha256:fae8aaf2dad504cccd1400a5340a028e0cc5ed756c146010287b0b059f3d9bc8'}
+  - {seq: 3, role: markers, filename: assets/KR6v0561_003-TX.markers.yaml, hash: 'sha256:d349b86724d60cbedb70aafacdd9518f46179a14f2477276f58b09cf8b2cac2f'}
+  - {seq: 4, role: markers, filename: assets/KR6v0561_004-TX.markers.yaml, hash: 'sha256:459572fc224589a0eb95b5d6829bb2563939531fd6b5cdcf6226dc130313b3a4'}
+  - {seq: 5, role: markers, filename: assets/KR6v0561_005-TX.markers.yaml, hash: 'sha256:8c5d283a80aa35c2ea3e4415a62b8ebfa703376f803e7a2052a926bc15b4f135'}
+table_of_contents: []
+hash: sha256:1efbe93f0476aaf0518b997687823f002880f52edf2d2b8f7166d5eb48d7ea65

@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0561/v1
+canonical_location: https://kanripo.org/bkk/KR6v0561/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太虛大師全書．第四編　大乘通學
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX04/TX04n0004.xml
+    old_id: TX04n0004
+  edition:
+    short: bkk
+editions:
+- short: 太虛
+  label: 太虛
+  source_xml_id: wit.orig
+- short: TX
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0561_001.yaml, hash: 'sha256:3a71b4cc09bef0ca963a7230067cf0ec979b9441d47aee14261774c828cba8dc'}
+  - {seq: 2, filename: KR6v0561_002.yaml, hash: 'sha256:3e85c1750e4a1e42f2419ad0644d15a5600857464cc59d338646473d4bdca33f'}
+  - {seq: 3, filename: KR6v0561_003.yaml, hash: 'sha256:4352386c4a7d0cf7ede7922bd59bc8c796439c428ee58c54d45e85a56c747b2a'}
+  - {seq: 4, filename: KR6v0561_004.yaml, hash: 'sha256:c908f686537356e6b687adda0516b04fb3380b6cb7861c2d9142177f5ccea51f'}
+  - {seq: 5, filename: KR6v0561_005.yaml, hash: 'sha256:f0a11d0474eb655abdc167c51e62e09b547cc0a9603fae3add777f680964d66d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0561_001.markers.yaml, hash: 'sha256:d94706065764a006f2a07e4a04f5b0a7a58c99eda74e985d4ffb9e9ddbf9827d'}
+  - {seq: 2, role: markers, filename: assets/KR6v0561_002.markers.yaml, hash: 'sha256:77c7ff53eece67c01be4e7e19ec1fd88e4438f2c02066978416e515ed054952c'}
+  - {seq: 3, role: markers, filename: assets/KR6v0561_003.markers.yaml, hash: 'sha256:a8686c4988cfab61b8be968177d096d5643b123c64d19d12c503997e3583e7f7'}
+  - {seq: 4, role: markers, filename: assets/KR6v0561_004.markers.yaml, hash: 'sha256:393c3a5c66977b3720f98b3022dc14b300ddd131a3ec273c9dc75e19117a0bfe'}
+  - {seq: 5, role: markers, filename: assets/KR6v0561_005.markers.yaml, hash: 'sha256:09e968350f7e4124bab7f7d6f2ff1c4f08ed71c792e89edd5b98d43918e497a3'}
+table_of_contents: []
+hash: sha256:2d0aa9e12db08b3ea9d777d33339ee056c6381a13a1df9314cee1628c2a844c1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
